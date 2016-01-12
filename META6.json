@@ -1,0 +1,13 @@
+{
+    "perl"         : "6.c",
+    "name"         : "Class::Descendants",
+    "version"      : "1.001001",
+    "description"  : "",
+    "depends"      : [ ],
+    "test-depends" : [ "Test" ],
+    "provides"     : {
+        "Class::Descendants": "lib/Class/Descendants.pm6"
+    },
+    "authors"      : [ "Zoffix Znet" ],
+    "source-url"   : "git://github.com/zoffixznet/perl6-Class-Descendants.git"
+}
